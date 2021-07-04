@@ -1,6 +1,6 @@
 {
   "name": "twitch-chat-bot",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Twitch chata oto yazma botu.",
   "main": "index.js",
   "scripts": {
