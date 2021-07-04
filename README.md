@@ -5,8 +5,10 @@
 - Ardından konsola gelip "**node .**" yazarak botu çalıştırabilirsiniz. 
 
 
-**DIKKAT!**: index.js içerisinde istenilen **OAUTH** Key'i almak için [bu linke giriniz!](https://twitchapps.com/tmi/)
+**DIKKAT!** index.js içerisinde istenilen **OAUTH** Key'i almak için [bu linke giriniz!](https://twitchapps.com/tmi/)
 Ardından **Connect** diyerek **OAUTH** keyinizi alıp botu çalıştırabilirsiniz.
+
+**NOT!** Herhangi bir ban durumunda kullanıcı sorumludur!
 
 Bana ulaşmak için: 'Tylér"#2886 - [Serendia Squad](https://discord.gg/E9dHcXrrhc)
 
