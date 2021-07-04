@@ -5,8 +5,6 @@
 - Ardından konsola gelip **node .** yazarak botu çalıştırabilirsiniz. 
 
 
-***DIKKAT!***: index.js içerisinde istenilen **OAUTH** Key'i almak için [bu linke giriniz!](https://twitchapps.com/tmi/)
+**DIKKAT!**: index.js içerisinde istenilen **OAUTH** Key'i almak için [bu linke giriniz!](https://twitchapps.com/tmi/)
 Ardından **Connect** diyerek **OAUTH** keyinizi alıp botu çalıştırabilirsiniz.
 
-
-https://cdn.discordapp.com/attachments/814960684705513482/854475799335534592/standard.gif
