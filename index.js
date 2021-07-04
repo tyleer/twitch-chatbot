@@ -8,7 +8,7 @@ const client = new tmi.Client({
     },
     identity: {
         username: "", //Twitch kullanıcı adınız!
-        password: "" //Oauth key (README kısmında nasıl alacağınız mevcuttur.)
+        password: "" //OAuth key (README kısmında nasıl alacağınız mevcuttur.)
     },
     channels: [""] //katılınacak kanalların adları Örn: ["Kanal1", "Kanal2", "Kanal3"] bu şekilde olmalıdır kesinlikle dikkat edin! 
 });
