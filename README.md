@@ -10,4 +10,4 @@ Ardından **Connect** diyerek **OAUTH** keyinizi alıp botu çalıştırabilirsi
 
 Bana ulaşmak için: 'Tylér"#2886 - [Serendia Squad](https://discord.gg/E9dHcXrrhc)
 
-[Serendia Squad](https://cdn.discordapp.com/attachments/814960684705513482/854475799335534592/standard.gif)
+![Serendia Squad](https://cdn.discordapp.com/attachments/814960684705513482/854475799335534592/standard.gif)
