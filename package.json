@@ -1,0 +1,14 @@
+{
+  "name": "twitch-chat-bot",
+  "version": "0.0.1",
+  "description": "Twitch chata oto yazma botu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Tylér",
+  "license": "MIT",
+  "dependencies": {
+    "tmi.js": "^1.8.3"
+  }
+}
