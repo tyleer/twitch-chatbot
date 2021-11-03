@@ -10,6 +10,4 @@ Ardından **Connect** diyerek **OAUTH** keyinizi alıp botu çalıştırabilirsi
 
 **NOT!** Herhangi bir ban durumunda kullanıcı sorumludur, Herhangi bir sorumluluk kabul etmiyorum.
 
-**Bana ulaşmak için** ['Tylér"#2886](https://discord.com/users/754646387672481792) - [Serendia Squad](https://discord.gg/E9dHcXrrhc)
-
-![Serendia Squad](https://cdn.discordapp.com/attachments/814960684705513482/854475799335534592/standard.gif)
+**Bana ulaşmak için** ['Tylér"#2886](https://discord.com/users/754646387672481792)
