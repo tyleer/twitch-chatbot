@@ -10,4 +10,4 @@ Ardından **Connect** diyerek **OAUTH** keyinizi alıp botu çalıştırabilirsi
 
 **NOT!** Herhangi bir ban durumunda kullanıcı sorumludur, Herhangi bir sorumluluk kabul etmiyorum.
 
-**Bana ulaşmak için** ['Tylér"#2886](https://discord.com/users/754646387672481792)
+**Bana ulaşmak için** ['Tylér"#0001](https://discord.com/users/423918142385815552)
